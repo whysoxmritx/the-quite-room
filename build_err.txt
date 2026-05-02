@@ -1,0 +1,14 @@
+Failed to compile.
+
+./src/app/page.js
+Module not found: Can't resolve '@/components/VibeCheck'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./src/app/page.js
+Module not found: Can't resolve '@/components/BurnBox'
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+> Build failed because of webpack errors
